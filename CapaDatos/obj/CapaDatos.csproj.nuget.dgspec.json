@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ANDL8\\Downloads\\RC201901 Recinos Lesly parte 3\\RC201901 Recinos Lesly parte 3\\CapaDatos\\CapaDatos.csproj": {}
+    "C:\\Users\\ANDL8\\Documents\\Visual Studio 2019\\SistemaBase_RC201901\\CapaDatos\\CapaDatos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ANDL8\\Downloads\\RC201901 Recinos Lesly parte 3\\RC201901 Recinos Lesly parte 3\\CapaDatos\\CapaDatos.csproj": {
+    "C:\\Users\\ANDL8\\Documents\\Visual Studio 2019\\SistemaBase_RC201901\\CapaDatos\\CapaDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ANDL8\\Downloads\\RC201901 Recinos Lesly parte 3\\RC201901 Recinos Lesly parte 3\\CapaDatos\\CapaDatos.csproj",
+        "projectUniqueName": "C:\\Users\\ANDL8\\Documents\\Visual Studio 2019\\SistemaBase_RC201901\\CapaDatos\\CapaDatos.csproj",
         "projectName": "CapaDatos",
-        "projectPath": "C:\\Users\\ANDL8\\Downloads\\RC201901 Recinos Lesly parte 3\\RC201901 Recinos Lesly parte 3\\CapaDatos\\CapaDatos.csproj",
+        "projectPath": "C:\\Users\\ANDL8\\Documents\\Visual Studio 2019\\SistemaBase_RC201901\\CapaDatos\\CapaDatos.csproj",
         "packagesPath": "C:\\Users\\ANDL8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ANDL8\\Downloads\\RC201901 Recinos Lesly parte 3\\RC201901 Recinos Lesly parte 3\\CapaDatos\\obj\\",
+        "outputPath": "C:\\Users\\ANDL8\\Documents\\Visual Studio 2019\\SistemaBase_RC201901\\CapaDatos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

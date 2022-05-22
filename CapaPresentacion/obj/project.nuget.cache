@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NNcr5uhH8IRri6+j/DAIxcw3DsQ0f/1DMzwU2G+qVUKIPDGB1LLpGXckImwffS6iKiKq9FKhq3uv6/b+K7ifHw==",
+  "dgSpecHash": "HT9l0EiFQUOolRxj65ijt717fhKKctbxiCXkYpQkY3qGbUavVdJz4ky+kfEpGpf2naLZrcTFu9wv8VBEDDLi7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ANDL8\\Downloads\\RC201901 Recinos Lesly parte 3\\RC201901 Recinos Lesly parte 3\\CapaPresentacion\\CapaPresentacion.csproj",
+  "projectFilePath": "C:\\Users\\ANDL8\\Documents\\Visual Studio 2019\\SistemaBase_RC201901\\CapaPresentacion\\CapaPresentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANDL8\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ANDL8\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

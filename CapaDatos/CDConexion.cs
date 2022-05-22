@@ -11,7 +11,7 @@ namespace CapaDatos
     public class CDConexion
     {
         //Instanciamos la variable que trae la cadena de conexion hacia la base para encapsularla
-        private SqlConnection Conexion = new SqlConnection("Server=(localdb)\\MSSQLLocalDB;DataBase=SistemaBase;Integrated Security=true");
+        private SqlConnection Conexion = new SqlConnection("Server=LARCH;DataBase=SistemaBase;Integrated Security=true");
 
         //Metodo para abrir una conexion hacia la base
         public SqlConnection AbrirConexion()

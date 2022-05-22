@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SN61RhKY4qas8v7MCKKpdeu0Bov22C56cIlcEF0y1YhhmvBswTfrHnDa8VBj762IiDJ/HaT5cXIBaj6ujECdjg==",
+  "dgSpecHash": "CVcc10urM+QkzKOJ3AHXuk30vtbeVtur/d//lnMnMZUrjnjezV+OyluC4Klbo2vRkppSGu7LH7ciTZHXl151Mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ANDL8\\Downloads\\RC201901 Recinos Lesly parte 3\\RC201901 Recinos Lesly parte 3\\CapaNegocio\\CapaNegocio.csproj",
+  "projectFilePath": "C:\\Users\\ANDL8\\Documents\\Visual Studio 2019\\SistemaBase_RC201901\\CapaNegocio\\CapaNegocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANDL8\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ANDL8\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
