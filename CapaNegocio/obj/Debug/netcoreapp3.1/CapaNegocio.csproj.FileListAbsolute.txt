@@ -1,0 +1,52 @@
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.deps.json
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.dll
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.pdb
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfo.cs
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CopyComplete
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.dll
+C:\Users\ANDL8\source\repos\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.pdb
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.deps.json
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.dll
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.pdb
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\bin\Debug\netcoreapp3.1\CapaDatos.dll
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.AssemblyReference.cache
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfoInputs.cache
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfo.cs
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CopyComplete
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.dll
+D:\Users\lesly\Desktop\SistemaBase\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.pdb
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.deps.json
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.dll
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.pdb
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\bin\Debug\netcoreapp3.1\CapaDatos.dll
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.AssemblyReference.cache
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfoInputs.cache
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfo.cs
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CoreCompileInputs.cache
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CopyComplete
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.dll
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.pdb
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.deps.json
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.dll
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\bin\Debug\netcoreapp3.1\CapaNegocio.pdb
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.AssemblyInfo.cs
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.csproj.CopyComplete
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.dll
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaNegocio\obj\Debug\netcoreapp3.1\CapaNegocio.pdb

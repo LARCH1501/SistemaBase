@@ -1,0 +1,40 @@
+C:\Users\ANDL8\source\repos\SistemaBase\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+C:\Users\ANDL8\source\repos\SistemaBase\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\ANDL8\source\repos\SistemaBase\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\ANDL8\source\repos\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ANDL8\source\repos\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDL8\source\repos\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\ANDL8\source\repos\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+C:\Users\ANDL8\source\repos\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ANDL8\source\repos\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\ANDL8\source\repos\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.pdb
+D:\Users\lesly\Desktop\SistemaBase\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+D:\Users\lesly\Desktop\SistemaBase\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.dll
+D:\Users\lesly\Desktop\SistemaBase\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+D:\Users\lesly\Desktop\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.AssemblyReference.cache
+D:\Users\lesly\Desktop\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\lesly\Desktop\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+D:\Users\lesly\Desktop\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+D:\Users\lesly\Desktop\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Users\lesly\Desktop\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.dll
+D:\Users\lesly\Desktop\SistemaBase\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.pdb
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.dll
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.AssemblyReference.cache
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.dll
+E:\Users\lesly\source\repos\RC201901 Recinos Lesly parte 2\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.deps.json
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaDatos\bin\Debug\netcoreapp3.1\CapaDatos.pdb
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.AssemblyInfo.cs
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.dll
+C:\Users\ANDL8\Downloads\RC201901 Recinos Lesly parte 3\RC201901 Recinos Lesly parte 3\CapaDatos\obj\Debug\netcoreapp3.1\CapaDatos.pdb
